@@ -94,19 +94,6 @@ textarea {
 /* ==========================================================================
    Author's custom styles
    ========================================================================== */
-p {
-  margin: auto;
-  text-align: center;
-  font-size: 40px;
-  font-family: Helvetica;
-  margin-top: 30%;
-  transform: translateY(-50%);
-  color: #ffd3d3;
-}
-p:hover {
-  color: white;
-  background-color: #ffd3d3;
-}
 
 
 
