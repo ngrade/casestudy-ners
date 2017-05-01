@@ -1,0 +1,26 @@
+.article-column img {
+  width: 100%;
+  margin-top: 10px;
+}
+.article-column p {
+  display: block;
+  border-left: 1px solid black;
+  padding-left: 30px;
+}
+.article-column .caption {
+  float: none;
+  width: 100%;
+}
+.article-column .ners {
+  width: 295px;
+  padding-left: 20px;
+}
+.copywrite {
+  margin-top: 320px;
+}
+footer {
+  height: 640px;
+}
+.subscribe {
+  max-width: 100%;
+}

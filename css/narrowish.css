@@ -1,0 +1,42 @@
+header ul {
+  display: none;
+}
+nav .usa {
+  border: none;
+}
+header img {
+  margin: 6px 10px 0 0px;
+}
+.img1 {
+  margin: 0px 18px;
+}
+header {
+  margin-top: 0;
+  height: 82px;
+  border-bottom: 1px solid #e5e5e5;
+}
+footer {
+  height: 430px;
+}
+footer .left {
+  width: 550px;
+}
+.email {
+  width: 300px;
+}
+.copywrite {
+  width: 31%;
+  position: absolute;
+  right: 0px;
+  clear: both;
+  margin-top: 100px;
+  line-height: normal;
+  margin-bottom: 50px;
+  padding-right: 10px;
+}
+.copywrite p {
+  margin-bottom: -11px;
+}
+.caption {
+  width: 32%;
+}

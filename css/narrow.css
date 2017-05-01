@@ -1,0 +1,20 @@
+.genious, .faded {
+  display: none;
+}
+.natgeo {
+  border: none;
+}
+nav .usa {
+  border: none;
+}
+header img {
+  margin: -10px 10px 0 0px;
+}
+.img1 {
+  margin: -15px 18px;
+}
+header {
+  margin-top: 0;
+  height: 66px;
+  border-bottom: 1px solid #e5e5e5;
+}

@@ -1,0 +1,61 @@
+nav li {
+  display: none;
+}
+.bigger {
+  display: block;
+}
+nav .usa {
+  border: none;
+}
+header img {
+  margin: 6px 10px 0 0px;
+}
+.img1 {
+  margin: 0px 18px;
+}
+header {
+  margin-top: 0;
+  height: 82px;
+  border-bottom: 1px solid #e5e5e5;
+}
+.content h1 {
+  font-size: 45px;
+  letter-spacing: 10px;
+}
+.content {
+  padding: 10px;
+}
+.copywrite {
+  position: inherit;
+  width: 100%;
+}
+footer {
+  height: 550px;
+  width: 100%;
+}
+.subscribe input {
+  width: 100%;
+}
+.subscribe {
+  border: none;
+}
+.email {
+  margin-left: -5px;
+  margin-bottom: 10px;
+}
+.right {
+  width: 100%;
+  position: absolute;
+  left: -20px;
+  margin-top: 200px;
+}
+.right ul {
+  margin-top: -40px;
+}
+.right li {
+  width: 200px;
+}
+.copywrite {
+  margin-top: 240px;
+  margin-left: -5px;
+}
